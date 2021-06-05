@@ -1,0 +1,12 @@
+body{
+    background: #43438b;
+  }
+
+
+  .delete{
+    cursor : pointer;
+  }
+
+  .fas{
+    cursor : pointer;
+  }
